@@ -27,11 +27,11 @@ of different ports in rapid succession.
 
 Tested against a real nmap SYN scan (`nmap -sS`) from a second device on the 
 local network:
-
+```
 [2026-07-26 18:16:59] PORT SCAN DETECTED: 192.168.x.y -> 192.168.x.z
 [2026-07-26 18:17:00] PORT SCAN DETECTED: 192.168.x.y -> 192.168.x.z
 [2026-07-26 18:17:01] PORT SCAN DETECTED: 192.168.x.y -> 192.168.x.z
-
+```
 ## Requirements
 
 - Python 3.x
