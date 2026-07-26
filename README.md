@@ -56,4 +56,10 @@ Set `VERBOSE = True` in the script to see individual SYN packets as they're dete
 
 ## Author
 
-Pavle Pavlović — Electrical & Computer Engineering Student, University of Belgrade
+Pavle Pavlović
+
+Computer Technician
+
+Electrical and Computer Engineering Student
+
+University of Belgrade, School of Electrical Engineering
