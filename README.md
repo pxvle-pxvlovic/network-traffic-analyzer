@@ -47,6 +47,14 @@ python analyzer.py
 
 Set `VERBOSE = True` in the script to see individual SYN packets as they're detected.
 
+## Note
+
+This tool performs active packet capture while running; it does not run as a 
+background service or persist between sessions. This is intentional for a learning 
+context, rather than service/daemon implementation.
+A production implementation would run as a persistent background 
+service, log to a central SIEM, and integrate with alerting systems.
+
 ## Configuration
 
 | Parameter | Default | Description |
